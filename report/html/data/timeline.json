@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "PC-20160317XKLN",
+    "children" : [ {
+      "name" : "13596-MainThread",
+      "children" : [ {
+        "name" : "Test_allure.test_allure",
+        "uid" : "1d72ac588f5dc31d",
+        "parentUid" : "939ba79dc0f83f8dd72a29789ce8852f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1534561420818,
+          "stop" : 1534561420821,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "939ba79dc0f83f8dd72a29789ce8852f"
+    } ],
+    "uid" : "67e7c96fb001430c26afad841221d4ed"
+  } ]
+}
